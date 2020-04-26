@@ -1,0 +1,68 @@
+h2{
+    font-family: serif;
+}
+p{
+    font-family: serif;
+}
+
+h2{
+    color:white;
+}
+p{
+    color:#000000;
+}
+
+body{
+    background-image: url(sandwich-food_6RE2JVSL29.jpg);
+    background-repeat: no-repeat;
+}
+
+body{
+    background-image: url(sandwich-food_6RE2JVSL29.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+h2{
+    margin-top: 100px;
+    margin-left: 100px;
+}
+p{
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+.main-nav{
+    display: flex;
+    font-size: 1.0rem;
+    text-transform: uppercase;
+    margin-top: 34px;
+    list-style: none;
+}
+.main-nav li{
+    margin-left: 36px;
+}
+.main-nav a{
+    color: white;
+}
+.main-nav a:hover{
+    color: red;
+}
+.main-nav{
+    font-family: serif;
+}
+
+h2{
+    border-bottom: 2px solid #e2eba3;
+}
+
+footer{
+    background: 0;
+    text-align: center;
+    padding: 10px 0;
+}
+footer p{
+    color: #fff;
+    font-size: 0.875rem;
+}
