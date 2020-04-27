@@ -60,6 +60,13 @@ p{
 }
 
 @media (max-width: 600px){
+    .portfolio-contents{
+        flex-direction: column;
+    }
+    article,
+    aside{
+        width: 100%;
+    }
     .page-header{
         flex-direction: column;
         align-items: center;
@@ -104,13 +111,6 @@ aside{
 }
 
 
-.portfolio-contents{
-    flex-direction: column;
-}
-article,
-aside{
-    width: 100%;
-}
 
 .home-content{
     margin-top: 20%;
